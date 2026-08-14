@@ -1,1 +1,2 @@
-GROUP_ID = -5583570039 # Needs to be changed
+GROUP_ID = -5583570039
+BOT_USERNAME = "@anon_12123bot"
