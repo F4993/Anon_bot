@@ -43,7 +43,7 @@ def create_card(text: str) -> io.BytesIO:
     text_h = bbox[3] - bbox[1]
 
     card_w = 900
-    padding_v = 120 
+    padding_v = 90 
     card_h = max(320, text_h + padding_v * 2)
     
     card_x = (width - card_w) // 2
